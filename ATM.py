@@ -20,7 +20,7 @@ ScreenManager:
         padding: dp(20)
         spacing: dp(20)
         Image:
-            source: 'atm_logo.png'  # Path to your image file
+            source: 'atm_logo.png'  
             size_hint: None, None
             size: dp(200), dp(200)
             pos_hint: {"center_x": 0.5, "center_y": 0.5}
